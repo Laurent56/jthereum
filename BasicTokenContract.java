@@ -1,3 +1,5 @@
+/* Code is by Laurent Weichberger.
+*/
 import com.u7.jthereum.annotations.*;
 import com.u7.jthereum.types.*;
 import com.u7.jthereum.wellKnownInterfaces.*;
